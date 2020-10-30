@@ -2,11 +2,11 @@
   "groups": [
     {
       "id": 1,
-      "title": 'Food'
+      "title": "Food"
     },
     {
       "id": 2,
-      "title": 'Beverage'
+      "title": "Beverage"
     }
   ],
   "recipes": [
