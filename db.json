@@ -1,54 +1,80 @@
 {
+  "groups": [
+    {
+      "id": 1,
+      "title": 'Food'
+    },
+    {
+      "id": 2,
+      "title": 'Beverage'
+    }
+  ],
   "recipes": [
     {
       "id": 1,
       "title": "Burger Classic",
-      "price": 5.5
+      "price": 5.5,
+      "group": 1
     },
     {
       "id": 2,
       "title": "Bratwurst",
-      "price": 3
+      "price": 3,
+      "group": 1
     },
     {
       "id": 3,
       "title": "Hähnchen Madras, groß",
-      "price": 13.75
+      "price": 13.75,
+      "group": 1
     },
     {
       "id": 4,
       "title": "Pommes spezial, groß",
-      "price": 6.5
+      "price": 6.5,
+      "group": 1
     },
     {
       "id": 5,
-      "title": "Apfelsaft 0.33l",
-      "price": 1.5
+      "title": "Apfelsaft, 0.33l",
+      "price": 1.5,
+      "group": 2
     },
     {
       "id": 6,
-      "title": "Grillplatte für 2 Personen",
-      "price": 22.90
+      "title": "Grillplatte, 2 Personen",
+      "price": 22.90,
+      "group": 1
     },
     {
       "id": 7,
-      "title": "Cola 0.5l",
-      "price": 2.5
+      "title": "Cola, 0.5l",
+      "price": 2.5,
+      "group": 2
     },
     {
       "id": 8,
       "title": "Cheeseburger",
-      "price": 3.30
+      "price": 3.30,
+      "group": 1
     },
     {
       "id": 9,
       "title": "Jägerschnitzel",
-      "price": 6.60
+      "price": 6.60,
+      "group": 1
     },
     {
       "id": 10,
       "title": "Pizza Napoli, groß",
-      "price": 10.80
+      "price": 10.80,
+      "group": 1
+    },
+    {
+      "id": 11,
+      "title": "Beck's, 0.33l",
+      "price": 2.3,
+      "group": 2
     }
   ]
 }
