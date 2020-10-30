@@ -1,80 +1,54 @@
 {
-  "groups": [
-    {
-      "id": 1,
-      "title": "Food"
-    },
-    {
-      "id": 2,
-      "title": "Beverage"
-    }
-  ],
-  "recipes": [
-    {
-      "id": 1,
-      "title": "Burger Classic",
-      "price": 5.5,
-      "group": 1
-    },
-    {
-      "id": 2,
-      "title": "Bratwurst",
-      "price": 3,
-      "group": 1
-    },
-    {
-      "id": 3,
-      "title": "Hähnchen Madras, groß",
-      "price": 13.75,
-      "group": 1
-    },
-    {
-      "id": 4,
-      "title": "Pommes spezial, groß",
-      "price": 6.5,
-      "group": 1
-    },
-    {
-      "id": 5,
-      "title": "Apfelsaft, 0.33l",
-      "price": 1.5,
-      "group": 2
-    },
-    {
-      "id": 6,
-      "title": "Grillplatte, 2 Personen",
-      "price": 22.90,
-      "group": 1
-    },
-    {
-      "id": 7,
-      "title": "Cola, 0.5l",
-      "price": 2.5,
-      "group": 2
-    },
-    {
-      "id": 8,
-      "title": "Cheeseburger",
-      "price": 3.30,
-      "group": 1
-    },
-    {
-      "id": 9,
-      "title": "Jägerschnitzel",
-      "price": 6.60,
-      "group": 1
-    },
-    {
-      "id": 10,
-      "title": "Pizza Napoli, groß",
-      "price": 10.80,
-      "group": 1
-    },
-    {
-      "id": 11,
-      "title": "Beck's, 0.33l",
-      "price": 2.3,
-      "group": 2
-    }
-  ]
+	"groups": [{
+			"id": 1,
+			"title": "Food"
+		},
+		{
+			"id": 2,
+			"title": "Beverage"
+		}
+	],
+	"recipes": [{
+			"id": 2631,
+			"title": "Red Bull 0,25l",
+			"description": "Ein Getränk zum Wachmachen",
+			"price": 3.5,
+			"group": 2
+		},
+		{
+			"id": 4783,
+			"title": "Mineralwasser 0,3l",
+			"description": "Wasser mit ein wenig Kohlensäure",
+			"price": 2.5,
+			"group": 2
+		},
+		{
+			"id": 5824,
+			"title": "Pizza Napoli 30cm",
+			"description": "Klassisch italienische Pizza",
+			"price": 7.6,
+			"group": 1
+		},
+		{
+			"id": 6984,
+			"title": "Pizza Napoli 30cm",
+			"description": "Eine vegetarische italienische Pizza",
+			"price": 8.2,
+			"group": 1
+		},
+		{
+			"id": 5623,
+			"title": "Spaghetti Carbonara",
+			"description": "Spaghetti mit Ei, Schinken und Parmesan",
+			"price": 8.7,
+			"group": 1
+		},
+		{
+			"id": 1245,
+			"title": "Tiramisu",
+			"description": "Klassisches italienisches Dessert",
+			"price": 3.5,
+			"group": 1
+		}
+	]
 }
